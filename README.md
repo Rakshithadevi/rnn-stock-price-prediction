@@ -9,17 +9,22 @@ Build a Recurrent Neural Network (RNN) model to forecast Google's stock price us
 
 ## Design Steps
 
-### Step 1: Reading and preprocessing the training dataset ('Trainset.csv').
-### Step 2:Building and training the RNN model using the 'Open' prices from the training dataset.
-### Step 3:Reading and preprocessing the test dataset ('testset.csv').
-### Step 4:Using the trained model to make predictions on the test dataset.
-### Step 5:Evaluating the accuracy of the model's predictions against the actual stock prices from the test dataset.
+### Step 1:
+Reading and preprocessing the training dataset ('Trainset.csv').
+### Step 2:
+Building and training the RNN model using the 'Open' prices from the training dataset.
+### Step 3:
+Reading and preprocessing the test dataset ('testset.csv').
+### Step 4:
+Using the trained model to make predictions on the test dataset.
+### Step 5:
+Evaluating the accuracy of the model's predictions against the actual stock prices from the test dataset.
 
 
 
 ## Program
-#### Name:Rakshitha devi J
-#### Register Number:212221230082
+### Name:Rakshitha devi J
+### Register Number:212221230082
 ```
 import numpy as np
 import matplotlib.pyplot as plt
